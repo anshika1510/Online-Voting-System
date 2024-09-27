@@ -33,6 +33,9 @@ The Online Voting System is a web-based application developed using HTML, CSS, a
 8. **Audit Logs**:
    - Records and tracks voting activities for transparency and security. 
 ### Technology Used 
-  - HTML%
+  - HTML5
   - CSS
   - XAMPP
+
+
+
